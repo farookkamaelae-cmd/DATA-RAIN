@@ -1,0 +1,67 @@
+﻿sheet,excel_row,column,method,new_value
+ความชื้น,26,humidity,time interpolation (same station),94.0
+ความชื้น,106,humidity,time interpolation (same station),94.1
+ความชื้น,129,humidity,time interpolation (same station),93.8
+ความชื้น,131,humidity,time interpolation (same station),91.1
+ความชื้น,132,humidity,time interpolation (same station),88.4
+ความชื้น,153,humidity,time interpolation (same station),94.5
+ความชื้น,154,humidity,time interpolation (same station),94.6
+ความชื้น,174,humidity,time interpolation (same station),94.2
+ความชื้น,176,humidity,time interpolation (same station),94.5
+ความชื้น,178,humidity,time interpolation (same station),94.5
+ความชื้น,369,humidity,time interpolation (same station),94.4
+ความชื้น,393,humidity,time interpolation (same station),94.2
+ความชื้น,415,humidity,time interpolation (same station),94.0
+ความชื้น,515,humidity,time interpolation (same station),90.8
+ความชื้น,522,humidity,time interpolation (same station),50.9
+ความชื้น,587,humidity,time interpolation (same station),92.5
+ความชื้น,659,humidity,time interpolation (same station),92.1
+ความชื้น,674,humidity,time interpolation (same station),92.8
+ความชื้น,678,humidity,time interpolation (same station),93.7
+ความชื้น,683,humidity,time interpolation (same station),91.5
+ความชื้น,835,humidity,time interpolation (same station),78.2
+ความชื้น,851,humidity,time interpolation (same station),92.6
+ความชื้น,858,humidity,time interpolation (same station),73.8
+ความชื้น,899,humidity,time interpolation (same station),93.2
+ความชื้น,909,humidity,time interpolation (same station),79.5
+ความชื้น,923,humidity,time interpolation (same station),92.8
+ความชื้น,971,humidity,time interpolation (same station),92.7
+ความชื้น,980,humidity,time interpolation (same station),91.9
+ความชื้น,1044,humidity,time interpolation (same station),94.6
+ความชื้น,1046,humidity,time interpolation (same station),90.3
+ความชื้น,1067,humidity,time interpolation (same station),94.1
+ความชื้น,1091,humidity,time interpolation (same station),94.2
+ความชื้น,1118,humidity,time interpolation (same station),94.3
+ความชื้น,1119,humidity,time interpolation (same station),93.9
+ความชื้น,1166,humidity,time interpolation (same station),88.8
+ความชื้น,1241,humidity,time interpolation (same station),76.2
+ความชื้น,1290,humidity,time interpolation (same station),89.8
+ความชื้น,1309,humidity,time interpolation (same station),91.2
+ความชื้น,1336,humidity,time interpolation (same station),86.1
+ความชื้น,1363,humidity,time interpolation (same station),74.6
+ความชื้น,1381,humidity,time interpolation (same station),86.3
+อุณหภูมิ,63,min_temperature,"linear regression (max, temp, month)",22.4
+อุณหภูมิ,75,min_temperature,"linear regression (max, temp, month)",22.3
+อุณหภูมิ,76,min_temperature,"linear regression (max, temp, month)",22.4
+อุณหภูมิ,77,min_temperature,"linear regression (max, temp, month)",21.9
+อุณหภูมิ,78,min_temperature,"linear regression (max, temp, month)",22.4
+อุณหภูมิ,79,min_temperature,"linear regression (max, temp, month)",22.8
+อุณหภูมิ,80,min_temperature,"linear regression (max, temp, month)",22.8
+อุณหภูมิ,81,min_temperature,"linear regression (max, temp, month)",23.2
+อุณหภูมิ,82,min_temperature,"linear regression (max, temp, month)",23.5
+อุณหภูมิ,83,min_temperature,"linear regression (max, temp, month)",23.3
+อุณหภูมิ,84,min_temperature,"linear regression (max, temp, month)",22.9
+อุณหภูมิ,85,min_temperature,"linear regression (max, temp, month)",22.8
+อุณหภูมิ,86,min_temperature,"linear regression (max, temp, month)",22.1
+อุณหภูมิ,87,min_temperature,"linear regression (max, temp, month)",21.7
+อุณหภูมิ,88,min_temperature,"linear regression (max, temp, month)",21.4
+อุณหภูมิ,89,min_temperature,"linear regression (max, temp, month)",20.5
+อุณหภูมิ,90,min_temperature,"linear regression (max, temp, month)",21.6
+อุณหภูมิ,91,min_temperature,"linear regression (max, temp, month)",23.0
+อุณหภูมิ,92,min_temperature,"linear regression (max, temp, month)",22.9
+อุณหภูมิ,93,min_temperature,"linear regression (max, temp, month)",22.8
+อุณหภูมิ,94,min_temperature,"linear regression (max, temp, month)",22.7
+อุณหภูมิ,95,min_temperature,"linear regression (max, temp, month)",22.6
+อุณหภูมิ,96,min_temperature,"linear regression (max, temp, month)",22.1
+อุณหภูมิ,97,min_temperature,"linear regression (max, temp, month)",22.8
+อุณหภูมิ,108,min_temperature,"linear regression (max, temp, month)",22.1
